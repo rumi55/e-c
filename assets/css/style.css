@@ -1,0 +1,33 @@
+.add_to_basket{
+	text-transform: uppercase;
+}
+
+.red{
+	color: red;
+}
+
+.paging li {
+	list-style: none;
+	float:left;
+	padding: 1em;
+}
+
+.sbm a {
+	color: white;
+}
+
+.dn {
+	display: none;
+}
+
+.frm_paypal{
+	display: none!important;
+}
+
+.ul_list li{
+	display: inline-block;
+	color: #ffffff;
+}
+.ul_list li a {
+	
+}
