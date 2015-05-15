@@ -1,3 +1,4 @@
+If you have problem with path
 problem with include_path()  ..change it on php.ini 
 
 ; Windows: "\path1;\path2"
